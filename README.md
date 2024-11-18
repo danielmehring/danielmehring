@@ -4,7 +4,7 @@ My name is Daniel and I've been coding since 2016. This is my work
 
 ## Projects
 
-### SimplOrder - Restaurant Automation System (01/2023 - Present)
+### SimplOrder - Restaurant Automation System (01/2023 - 07/2024)
 
 SimplOrder is a web-based ordering system for restaurants. It features a fast and intuitive interface, with optimized API requests and database usage to minimize costs.
 
