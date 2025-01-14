@@ -4,6 +4,21 @@ My name is Daniel and I've been coding since 2016. This is my work
 
 ## Projects
 
+### tososto - The platform for sustainable real estate projects of the future.  (09/2024 - present)
+
+**Tech-Stack:**
+
+- AngularJS
+- now ported to NextJS
+- NestJS
+- MariaDB
+
+[tososto Website](https://site.tososto.com)
+[tososto Webapp](https://www.tososto.com)
+
+_Note: This repository is private._
+
+
 ### SimplOrder - Restaurant Automation System (01/2023 - 07/2024)
 
 SimplOrder is a web-based ordering system for restaurants. It features a fast and intuitive interface, with optimized API requests and database usage to minimize costs.
