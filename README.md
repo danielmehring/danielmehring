@@ -4,7 +4,7 @@ My name is Daniel and I've been coding since 2016. This is my work
 
 ## Projects
 
-### tososto - The platform for sustainable real estate projects of the future.  (09/2024 - present)
+### tososto - The platform for sustainable real estate projects of the future.  (09/2024 - 06/2025)
 
 **Tech-Stack:**
 
