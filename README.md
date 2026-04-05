@@ -33,7 +33,6 @@ SimplOrder is a web-based ordering system for restaurants. It features a fast an
 - Google Cloud Functions
 - Express & NodeJS
 
-[Landing Page](https://simplorder.de)
 [Admin Web-App](https://admin.simplorder.app)
 [Client Web-App](https://demo.simplorder.app)
 
