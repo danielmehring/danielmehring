@@ -15,8 +15,7 @@ My name is Daniel and I've been coding since 2016. This is my work
 
 everything runs on a self-hosted server using docker 
 
-[tososto Website](https://site.tososto.com)
-[tososto Webapp](https://www.tososto.com)
+[tososto](https://greencircleclub.de)
 
 _Note: This repository is private._
 
